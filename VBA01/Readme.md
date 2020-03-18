@@ -16,7 +16,8 @@ so create this file path on your computer
 
 if you want to change this paths 
 
-change it in 
+change it in Sheet1.cls line 33
+https://github.com/charan379/gst-invoice-VBA-excel/blob/495759787bbdb06d5578c22365218c100940106d/VBA01/Sheet1.cls#L33
 
 
 
